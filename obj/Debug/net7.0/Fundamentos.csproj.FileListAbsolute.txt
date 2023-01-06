@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/Fundamentos/bin/Debug/net7.0/Fundamentos
+/home/scrviy/dev/dotnet/Fundamentos/bin/Debug/net7.0/Fundamentos.deps.json
+/home/scrviy/dev/dotnet/Fundamentos/bin/Debug/net7.0/Fundamentos.runtimeconfig.json
+/home/scrviy/dev/dotnet/Fundamentos/bin/Debug/net7.0/Fundamentos.dll
+/home/scrviy/dev/dotnet/Fundamentos/bin/Debug/net7.0/Fundamentos.pdb
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.dll
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/refint/Fundamentos.dll
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.pdb
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/Fundamentos.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/Fundamentos/obj/Debug/net7.0/ref/Fundamentos.dll

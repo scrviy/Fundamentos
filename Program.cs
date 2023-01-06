@@ -1,4 +1,5 @@
-﻿namespace Fundamentos
+﻿using Fundamentos.Models;
+namespace Fundamentos
 {
     public class Fundamentos
     {
@@ -6,22 +7,27 @@
         {
             //Operadores Aritméticos
 
-            // Adicao
-            Console.WriteLine(5 + 5); // output = 10
+            //Adicao
+            Console.WriteLine(8 + 2); // output 10
 
-            // Subtração
-            Console.WriteLine(10 - 2); // output = 8
+            //Subtrair
+            Console.WriteLine(10 - 5); //output 5
 
-            // Multiplicacao 
-            Console.WriteLine(5 * 2); //output = 10
+            //Multiplicar
+            Console.WriteLine(2 * 5); //output 10
 
-            // Divisao
-            Console.WriteLine(10 / 2); // output = 5
+            //Dividir 
+            Console.WriteLine(100 / 2); //output 50
 
-            //Módulo
-            int a, b;
-            a = 10; b = 5;
-            Console.WriteLine(a % b); // output = 0
+            //* operacoes da calculadora
+            Calculadora calc = new Calculadora();
+
+            calc.Somar(8, 2);
+            calc.Subtrair(10, 5);
+            calc.Multiplicar(2, 5);
+            calc.Dividir(100, 2);
+
+
         }
     }
 }
