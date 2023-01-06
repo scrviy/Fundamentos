@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gx13Ti5vtKXfiqja7aXmxwo8GSQ93f8RokVVxOuBPt0bROaeEWud2wjbVz0+rqA3EL2csGe+ihPF7X9L6IvF2Q==",
+  "success": true,
+  "projectFilePath": "/home/scrviy/dev/dotnet/Fundamentos/Fundamentos.csproj",
+  "expectedPackageFiles": [
+    "/home/scrviy/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
