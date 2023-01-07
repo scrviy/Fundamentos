@@ -1,5 +1,5 @@
 # Anotações sobre o uso de Operadores Aritméticos em C#.
----
+
 ### O que são operadores aritméticos?
 _Operadores aritméticos é o nome dado a uma operação feita com dois números, no qual é possível chegar a outro número através desta operação._
 
