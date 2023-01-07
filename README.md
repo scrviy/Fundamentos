@@ -31,3 +31,7 @@ _A trigonometria  é uma área da geometria plana euclidiana, que busca analisar
 ---
 
 ### Raiz Quadrada
+_A raiz quadrada de x é um número y que, multiplicado por si próprio, iguala-se a x._
+_ex: "√36 = 6, pois 6² = 36"_
+
+Veja mais sobre "Raiz quadrada" em: https://brasilescola.uol.com.br/matematica/calculo-raiz-quadrada.htm._
