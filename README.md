@@ -27,3 +27,7 @@ _A trigonometria  é uma área da geometria plana euclidiana, que busca analisar
 - Seno - essa função possui lei de formação -> ***f(x) = sen(x) R -> R***. Possui o gráfico denominado de gráfico senoidal.
 - Cosseno - Definimos como função cosseno a lei de formação ***f(x) = cos(x).*** A função gera um gráfico cíclico, com imagem entre 1 e -1.
 - Tangente - É a função a ser calculada a partir da divisão entre os catetos oposto e adjacente de um triângulo retângulo. Se da pela formação ***f(x) = tg(x)***
+
+---
+
+### Raiz Quadrada
