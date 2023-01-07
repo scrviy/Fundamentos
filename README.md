@@ -15,3 +15,15 @@ _Para facilitar a criação de softwares e aplicativos, que tem o objetivo de pr
 - **%** _Operador de Módulo._
 - **++** _Operador de Incremento._
 - **--** _Operador de Decremento._
+
+---
+
+### Trigonometria
+
+#### O que é Trigonometria?
+
+_A trigonometria  é uma área da geometria plana euclidiana, que busca analisar a relação existente entre os ângulos de um triângulo e o comprimento dos seus lados._ PS: _retirado do site: https://mundoeducacao.uol.com.br/matematica/trigonometria.htm_ 
+
+- Seno - essa função possui lei de formação -> ***f(x) = sen(x) R -> R***. Possui o gráfico denominado de gráfico senoidal.
+- Cosseno - Definimos como função cosseno a lei de formação ***f(x) = cos(x).*** A função gera um gráfico cíclico, com imagem entre 1 e -1.
+- Tangente - É a função a ser calculada a partir da divisão entre os catetos oposto e adjacente de um triângulo retângulo. Se da pela formação ***f(x) = tg(x)***
