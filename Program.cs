@@ -19,8 +19,7 @@ namespace Fundamentos
             //Dividir 
             Console.WriteLine(100 / 2); //output 50
 
-            //* operacoes da calculadora
-             
+            // operacoes da calculadora
             Calculadora calc = new Calculadora();
 
             calc.Somar(8, 2);
@@ -28,6 +27,14 @@ namespace Fundamentos
             calc.Multiplicar(2, 5);
             calc.Dividir(100, 2);
             calc.Potencia(3, 3);
+            
+
+            //Trigonometria
+            Calculadora calc1 = new Calculadora();
+            calc1.Seno(30);
+            calc1.Cosseno(30);
+            calc1.Tangente(30);
+            
         }
     }
 }
